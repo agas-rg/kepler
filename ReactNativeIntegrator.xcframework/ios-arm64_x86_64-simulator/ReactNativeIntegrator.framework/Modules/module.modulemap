@@ -1,0 +1,6 @@
+framework module ReactNativeIntegrator {
+  umbrella header "ReactNativeIntegrator.h"
+
+  export *
+  module * { export * }
+}
